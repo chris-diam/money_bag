@@ -81,7 +81,7 @@ const Home: FunctionComponent = () => {
             subtitle: 'Beers',
             art: {
                 background: colors.primary,
-                icon: 'glass'
+                icon: 'beer'
             }
         },
     ]
